@@ -1,0 +1,85 @@
+{
+    "FACEBOOK_INTERSTITIAL":"IMG_16_9_APP_INSTALL#184669246650973_201027278348503j",
+    "FACEBOOK_INTERSTITIALCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343981971313k",
+    
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	"FACEBOOK_NATIVEBANNER1":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	
+	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_NATIVECPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343978637980h",
+	"FACEBOOK_NATIVE1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_NATIVECPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343978637980h",
+
+	
+	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025k",
+	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025k",
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-4860196778107901/1502456263",
+	
+	"GOOGLE_NATIVE":"ca-ap-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVE1":"ca-ap-pub-3940256099942544/2247696110",
+	
+	"GOOGLE_NATIVEBANNER":"ca-ap-pub-3940256099942544/2247696110",
+	"GOOGLE_NATIVEBANNER1":"ca-ap-pub-3940256099942544/2247696110",
+	
+	"GOOGLE_BANNER":"ca-app-pub-4860196778107901/6754782945",
+	
+	"GOOGLE_INTERSTITIALCPM":"ca-app-pub-4860196778107901/1502456263",
+	"GOOGLE_NATIVECPM":"ca-ap-pub-3940256099942544/2247696110",
+	"GOOGLE_BANNERCPM":"ca-app-pub-4860196778107901/6754782945",
+	"GOOGLE_NATIVEBANNERCPM":"ca-ap-pub-3940256099942544/2247696110",
+	
+
+
+	
+
+
+	"INTER_INTERVAL":1,
+
+"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
+
+
+    "NATIVESWITCHBANNER":"true",
+ 
+
+    "FACEBOOKADSFIRST":"false",
+  
+	
+	"moreappsgrid":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/S8rXnelaBwubnX6Nt9jd83Jyyp7spt1Vxn2_zzmv8qObL5nNlXnMEuLWH4Iasrf4A3mv=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.puppyrace.riding",
+						"name":"Paw Racing Patrol",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/-eH1N8CtwAS6ZfVuknvHXqQcVPfDO6xMttMPSPUTxjLWRHIqd42mViuhht7ibkdTW8s=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
+						"name":"Lady Bug Run",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/eSAJ56MCGf3-5-8ZUPtqjuZl9S4mPKdQWXfSJr90UBiv0yyRzC1gBDUeNlgvbf5b_lM=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.pupps.adventure.patro",
+						"name":"Paw Patrol Dash",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/r7c7d_xHL9viGTU_RWEAeBC5un7F2K5uHKABfuzCc9Ion866laZ5wtZ-zoPaBPQ4j9mf=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.pepyous.hostore",
+						"name":"Tips Pepi Home",
+						"type":"install"
+					}
+			
+					
+					
+				
+	]
+        
+       
+
+
+}
